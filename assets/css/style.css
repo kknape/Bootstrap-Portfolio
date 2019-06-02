@@ -52,16 +52,19 @@ body {
 }
 
 .myFooter {
-  /*  margin: 60px 0px 0px 0px;*/
     background-color: #666666;
     color: white;
     text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
-/*
-header row with Name, About, Contact
+
+.myButton {
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16pt;
+}
+
+
+/* header row with Name, About, Contact
 
 .header {
     background-color: #ffffff;
