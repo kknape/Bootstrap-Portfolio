@@ -16,12 +16,17 @@
 }
 
 .myPipe {
-margin-top: 7px
+    margin-top: 7px;
+    color: #999;
+}
 
+.myLinks {
+    color: #999;
 }
 
 .myContainer {
     margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .aboutMe {
